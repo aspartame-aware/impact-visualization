@@ -1,0 +1,16 @@
+[
+  {
+    "year": 2020,
+    "country": "United States",
+    "average_aspartame_consumption_mg": 15.2,
+    "diabetes_prevalence_percent": 10.5,
+    "neurological_cases_percent": 2.3
+  },
+  {
+    "year": 2020,
+    "country": "United Kingdom",
+    "average_aspartame_consumption_mg": 8.9,
+    "diabetes_prevalence_percent": 6.8,
+    "neurological_cases_percent": 1.5
+  }
+]
